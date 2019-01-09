@@ -1,9 +1,3 @@
-.jumbotron {
-    text-align: center;
-    background: darkred;
-    color: white;
-}
-
 #trainTable {
     border-collapse: collapse;
     width: 100%;
@@ -20,11 +14,6 @@
     background-color: #f2f2f2;
     text-align: center;
 }
-
-#trainTable tr:hover {
-    background-color: #ddd;
-}
-
 #trainTable th {
     height: 50px;
     padding-top: 12px;

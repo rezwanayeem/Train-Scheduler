@@ -1,12 +1,13 @@
 // set up Firebase
 var config = {
-    apiKey: "AIzaSyCYTp9CqvIz3048wiLxvCaiopAoNJaxWbs",
-    authDomain: "trainsceduler-630a9.firebaseapp.com",
-    databaseURL: "https://trainsceduler-630a9.firebaseio.com",
-    projectId: "trainsceduler-630a9",
-    storageBucket: "trainsceduler-630a9.appspot.com",
-    messagingSenderId: "1055435770026"
-};
+    apiKey: "AIzaSyA-O3FxaSg01KIwn6x8ggW8ZZAJOz0xjIk",
+    authDomain: "trainscheduler-ad3dd.firebaseapp.com",
+    databaseURL: "https://trainscheduler-ad3dd.firebaseio.com",
+    projectId: "trainscheduler-ad3dd",
+    storageBucket: "trainscheduler-ad3dd.appspot.com",
+    messagingSenderId: "377325070580"
+  };
+  
 // initialize firebase
 firebase.initializeApp(config);
 
